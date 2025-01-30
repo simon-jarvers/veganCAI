@@ -51,12 +51,9 @@ Note: The pipeline can be easily adapted to use any open-source model provided b
 
 ## Project Context
 
-This project was developed as part of the AI Safety Fundamentals course on AI Alignment by BlueDot Impact (https://aisafetyfundamentals.com/alignment/). It explores practical approaches to AI alignment while considering how we might develop AI systems that can adapt to moral progress rather than permanently encoding current ethical perspectives.
+This project was developed as part of the [AI Safety Fundamentals course on AI Alignment](https://aisafetyfundamentals.com/alignment/) by BlueDot Impact. It explores practical approaches to AI alignment while considering how we might develop AI systems that can adapt to moral progress rather than permanently encoding current ethical perspectives.
 
 ## License
 
 This project is licensed under the MIT License.
 
-## Acknowledgments
-
-This project was completed as my final project for the [AI Alignment course](https://aisafetyfundamentals.com/alignment/) by BlueDot Impact.
