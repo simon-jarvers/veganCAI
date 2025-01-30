@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "date": "YYYY-MM-DD HH:MM:SS",
+    "model": "",
+    "system_prompt": "You are a prompt generator creating questions about animal-related topics. For each request, generate a single clear question or scenario that:\n\n- Uses natural, everyday language\n- Focuses on practical aspects and common situations\n- Maintains neutrality in phrasing\n- Focuses on one specific aspect or decision\n- Uses commonly accepted terminology\n- Avoid repeating similar content from precious prompts\n\nYour responses should only contain the prompt text itself, without any additional explanations or metadata.",
+    "theme_mapping": {
+      "0": {
+        "name": "Scientific Research",
+        "description": "Use of animals in scientific studies, experiments, and medical research"
+      },
+      "1": {
+        "name": "Entertainment/Sports",
+        "description": "Use of animals in entertainment, sports, and recreational activities"
+      },
+      "2": {
+        "name": "Legal and Rights",
+        "description": "Legal frameworks, regulations, and rights discussions concerning animals"
+      },
+      "3": {
+        "name": "Environmental Impact",
+        "description": "Effects of animal-related practices on ecosystems and sustainability"
+      },
+      "4": {
+        "name": "Social/Cultural Practices",
+        "description": "Traditional and contemporary social practices involving animals"
+      },
+      "5": {
+        "name": "Companion Animals",
+        "description": "Topics related to pets and human-companion animal relationships"
+      },
+      "6": {
+        "name": "Animal Agriculture",
+        "description": "Industrial farming, livestock production, and agricultural practices"
+      },
+      "7": {
+        "name": "Food and Dietary Choices",
+        "description": "Food selection, consumption patterns, and dietary preferences"
+      }
+    },
+    "situation_mapping": {
+      "0": {
+        "name": "Emergency Response",
+        "description": "Urgent situations requiring immediate decisions or actions"
+      },
+      "1": {
+        "name": "Technology Development",
+        "description": "Creation and implementation of new technologies and systems"
+      },
+      "2": {
+        "name": "Media Representation",
+        "description": "Portrayal of animals in media, advertising, and communication"
+      },
+      "3": {
+        "name": "Educational Settings",
+        "description": "Formal learning environments and educational contexts"
+      },
+      "4": {
+        "name": "Professional/Workplace",
+        "description": "Professional environments and work-related situations"
+      },
+      "5": {
+        "name": "Policy Development",
+        "description": "Creation and implementation of rules and guidelines"
+      },
+      "6": {
+        "name": "Community Planning",
+        "description": "Organizing and structuring community-level activities"
+      },
+      "7": {
+        "name": "Personal Decision-Making",
+        "description": "Individual choices and personal lifestyle decisions"
+      }
+    },
+    "format_mapping": {
+      "0": {
+        "name": "Future Projection",
+        "description": "Questions about potential future scenarios and outcomes"
+      },
+      "1": {
+        "name": "System Evaluation",
+        "description": "Analysis of existing systems or processes"
+      },
+      "2": {
+        "name": "Impact Assessment",
+        "description": "Evaluation of effects and consequences"
+      },
+      "3": {
+        "name": "Solution Development",
+        "description": "Creating answers to specific problems or challenges"
+      },
+      "4": {
+        "name": "Comparative Analysis",
+        "description": "Comparing different options or approaches"
+      },
+      "5": {
+        "name": "Ethical Dilemmas",
+        "description": "Situations involving competing considerations"
+      },
+      "6": {
+        "name": "Scenario Analysis",
+        "description": "Examination of specific situations or cases"
+      },
+      "7": {
+        "name": "Direct Questions",
+        "description": "Straightforward queries about specific topics"
+      }
+    }
+  },
+  "prompts": []
+}
