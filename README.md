@@ -1,4 +1,4 @@
-# UnlockAI: Anti-Speciesist Constitutional AI
+# UnlockAI: Addressing Value Lock-in Through Anti-Speciesist Constitutional AI
 
 This repository contains the implementation of an exploratory study on using Constitutional AI techniques to address value lock-in in Large Language Models (LLMs), with a specific focus on reducing speciesist bias. The project demonstrates a proof-of-concept pipeline for generating training data that could help align language models with vegan ethical principles.
 
